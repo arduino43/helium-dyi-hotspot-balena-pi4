@@ -197,8 +197,8 @@
         }
     },
     "gateway_conf": {
-        "gateway_ID": "AA555A0000000001",
-        "server_address": "localhost",
+        "gateway_ID": "AA555A0000000401",
+        "server_address": "lora.jacobhiltz.com",
         "serv_port_up": 1680,
         "serv_port_down": 1680,
         "keepalive_interval": 10,
