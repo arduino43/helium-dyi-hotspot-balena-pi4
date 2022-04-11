@@ -23,7 +23,7 @@
 
 Running Helium on [balenaCloud](https://balena.io) is a breeze. Just click the Deploy with balena button below:
 
-[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/just4give/helium-dyi-hotspot-balena-pi4/)
+[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/arduino43/helium-dyi-hotspot-balena-pi4/)
 
 Alternatively, you can install manually on balenaCloud using the instructions below.
 
